@@ -14,6 +14,6 @@ b=20
 c=a+b
 print(c)
 ```
-links 
-- https://bznhug.github.io/iptvorg.allworld.m3u
-- https://bznhug.github.io/iptvorg.country.m3u
+|Topic|links |
+|---|https://bznhug.github.io/iptvorg.allworld.m3u |
+|---|https://bznhug.github.io/iptvorg.country.m3u |
