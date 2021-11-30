@@ -6,3 +6,11 @@ permalink: /about/
 
 - [Home page](https://bznhug.github.io)
 - [About page](https://bznhug.github.io/about)
+
+python
+```python
+a=10
+b=20
+c=a+b
+print(c)
+```
