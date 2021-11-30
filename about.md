@@ -15,6 +15,5 @@ c=a+b
 print(c)
 ```
 links 
-```shell
-https://bznhug.github.io/iptvorg.allworld.m3u
-```
+- https://bznhug.github.io/iptvorg.allworld.m3u
+- https://bznhug.github.io/iptvorg.country.m3u
