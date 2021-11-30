@@ -15,5 +15,6 @@ c=a+b
 print(c)
 ```
 |Topic|links |
-|---|https://bznhug.github.io/iptvorg.allworld.m3u |
-|---|https://bznhug.github.io/iptvorg.country.m3u |
+|---|---|
+|world TV|https://bznhug.github.io/iptvorg.allworld.m3u |
+|world TV by country|https://bznhug.github.io/iptvorg.country.m3u |
