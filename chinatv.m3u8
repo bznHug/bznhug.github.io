@@ -72,13 +72,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1tvg-id="12"tvg-name="CCTV11"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png"group-title="央视",CCTV-11戏曲 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1,CCTV-12社会与法制 (1080p)
+#EXTINF:-1tvg-id="13"tvg-name="CCTV12"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png"group-title="央视",CCTV-12社会与法制 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1,CCTV-13新闻 (1080p)
+#EXTINF:-1tvg-id="14"tvg-name="CCTV13"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"group-title="央视",CCTV-13新闻 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1,CCTV-15音乐 (720p)
+#EXTINF:-1tvg-id="15"tvg-name="CCTV14"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"group-title="央视",CCTV-15音乐 (720p)
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1,CCTV-17农业农村 (1080p)
+#EXTINF:-1tvg-id="17"tvg-name="CCTV17"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"group-title="央视",CCTV-17农业农村 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1,CCTV-女性时尚 (576p)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
@@ -242,7 +242,7 @@ http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1,上海第一财经 (1080p)
 http://112.25.48.68/live/program/live/dycjhd/4000000/mnf.m3u8
-#EXTINF:-1,上海纪实 (1080p)
+#EXTINF:-1tvg-id="1988"tvg-name="上海纪实"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"group-title="地方",上海纪实 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 #EXTINF:-1,上海这一刻魔都眼 (720p)
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
@@ -394,7 +394,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225554/index.m3u8
 #EXTINF:-1,北京紀實 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1,北京衛視 (1080p)
+#EXTINF:-1tvg-id="30"tvg-name="北京卫视"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png"group-title="卫视",北京衛視 (1080p)
 http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1,北京财经 [Not 24/7]
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
