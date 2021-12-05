@@ -22,6 +22,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
 #EXTINF:-1,河南电视剧
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 
+#EXTINF:-1tvg-logo="http://www.tvyan.com/uploads/dianshi/xxxwzh.jpg"group-title="地方",新乡综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
 #EXTINF:-1,新乡公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226667/index.m3u8
 #EXTINF:-1,新乡新闻综合-站外
@@ -31,8 +33,7 @@ http://player2.juyun.tv/camera/08814184.m3u8
 #EXTINF:-1,机房监控
 http://player2.juyun.tv/camera/08816131.m3u8
 
-#EXTINF:-1tvg-logo="http://www.tvyan.com/uploads/dianshi/xxxwzh.jpg"group-title="地方",新乡综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688
+
 #EXTINF:-1,武术
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 #EXTINF:-1,梨园
