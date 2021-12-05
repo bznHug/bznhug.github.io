@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1tvg-id="47"tvg-name="河南卫视"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png"group-title="卫视",河南卫视4k
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hntv2.jpg"group-title="都市",河南都市频道
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hntv2.jpg"group-title="地方",河南都市频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
-#EXTINF:-1,河南电视剧频道
+#EXTINF:-1tvg-logo="http://www.tvyan.com/uploads/dianshi/hntv5.jpg"group-title="地方",河南电视剧频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/index.m3u8
 #EXTINF:-1,河南公共频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
@@ -11,11 +11,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
 #EXTINF:-1,河南国际
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8
-#EXTINF:-1,河南新闻
+#EXTINF:-1tvg-logo="http://www.tvyan.com/uploads/dianshi/hntv6.jpg"group-title="地方",河南新闻
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
 #EXTINF:-1,睛彩中原
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
-#EXTINF:-1,河南民生
+#EXTINF:-1tvg-logo="http://www.tvyan.com/uploads/dianshi/hntv3.jpg"group-title="地方",河南民生
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
 #EXTINF:-1,河南法制频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
