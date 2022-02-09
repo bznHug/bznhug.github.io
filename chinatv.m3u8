@@ -49,7 +49,7 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1,CCTV+ 2 (720p)
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1tvg-id="1"tvg-name="CCTV1"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"group-title="央视",CCTV-1综合- (1080p)
-#EXTINF:-1,CCTV-1综合 (1080p)
+http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1tvg-id="1"tvg-name="CCTV1"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"group-title="央视",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1tvg-id="2"tvg-name="CCTV2"tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"group-title="央视",CCTV-2财经 (1080p)
